@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RainyTest/save-image.git"
+    "url": "git+https://github.com/rmocelin/save-image.git"
   },
   "keywords": [
     "gif",
@@ -31,7 +31,7 @@
   "author": "Rainy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RainyTest/save-image/issues"
+    "url": "https://github.com/rmocelin/save-image/issues"
   },
-  "homepage": "https://github.com/RainyTest/save-image#readme"
+  "homepage": "https://github.com/rmocelin/save-image#readme"
 }
